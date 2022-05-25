@@ -1,0 +1,3 @@
+- 👋oi, eu sou @bianfeazpo
+- 👀eu estou aprendendo a programar recentemente a linguagem do java e scrath 
+- 📫meu e-mail de contato: Bianca.possenti@escola.pr.gov.br 
